@@ -1,0 +1,14 @@
+C:\Users\Apurva Singh\Desktop\Pythagorean theorem Solver In C sharp\Pythagorean theorem Solver In C sharp\bin\Debug\netcoreapp3.1\Pythagorean theorem Solver In C sharp.exe
+C:\Users\Apurva Singh\Desktop\Pythagorean theorem Solver In C sharp\Pythagorean theorem Solver In C sharp\bin\Debug\netcoreapp3.1\Pythagorean theorem Solver In C sharp.deps.json
+C:\Users\Apurva Singh\Desktop\Pythagorean theorem Solver In C sharp\Pythagorean theorem Solver In C sharp\bin\Debug\netcoreapp3.1\Pythagorean theorem Solver In C sharp.runtimeconfig.json
+C:\Users\Apurva Singh\Desktop\Pythagorean theorem Solver In C sharp\Pythagorean theorem Solver In C sharp\bin\Debug\netcoreapp3.1\Pythagorean theorem Solver In C sharp.runtimeconfig.dev.json
+C:\Users\Apurva Singh\Desktop\Pythagorean theorem Solver In C sharp\Pythagorean theorem Solver In C sharp\bin\Debug\netcoreapp3.1\Pythagorean theorem Solver In C sharp.dll
+C:\Users\Apurva Singh\Desktop\Pythagorean theorem Solver In C sharp\Pythagorean theorem Solver In C sharp\bin\Debug\netcoreapp3.1\Pythagorean theorem Solver In C sharp.pdb
+C:\Users\Apurva Singh\Desktop\Pythagorean theorem Solver In C sharp\Pythagorean theorem Solver In C sharp\obj\Debug\netcoreapp3.1\Pythagorean theorem Solver In C sharp.csproj.AssemblyReference.cache
+C:\Users\Apurva Singh\Desktop\Pythagorean theorem Solver In C sharp\Pythagorean theorem Solver In C sharp\obj\Debug\netcoreapp3.1\Pythagorean theorem Solver In C sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apurva Singh\Desktop\Pythagorean theorem Solver In C sharp\Pythagorean theorem Solver In C sharp\obj\Debug\netcoreapp3.1\Pythagorean theorem Solver In C sharp.AssemblyInfoInputs.cache
+C:\Users\Apurva Singh\Desktop\Pythagorean theorem Solver In C sharp\Pythagorean theorem Solver In C sharp\obj\Debug\netcoreapp3.1\Pythagorean theorem Solver In C sharp.AssemblyInfo.cs
+C:\Users\Apurva Singh\Desktop\Pythagorean theorem Solver In C sharp\Pythagorean theorem Solver In C sharp\obj\Debug\netcoreapp3.1\Pythagorean theorem Solver In C sharp.csproj.CoreCompileInputs.cache
+C:\Users\Apurva Singh\Desktop\Pythagorean theorem Solver In C sharp\Pythagorean theorem Solver In C sharp\obj\Debug\netcoreapp3.1\Pythagorean theorem Solver In C sharp.dll
+C:\Users\Apurva Singh\Desktop\Pythagorean theorem Solver In C sharp\Pythagorean theorem Solver In C sharp\obj\Debug\netcoreapp3.1\Pythagorean theorem Solver In C sharp.pdb
+C:\Users\Apurva Singh\Desktop\Pythagorean theorem Solver In C sharp\Pythagorean theorem Solver In C sharp\obj\Debug\netcoreapp3.1\Pythagorean theorem Solver In C sharp.genruntimeconfig.cache
